@@ -7,11 +7,6 @@ Support dark mode and localization </em>
       <a href="#"><img src="https://img.shields.io/badge/lang-English-blue.svg" alt="English"></a>
 </p>
 
-<p align="center">
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://twitter.com/imtigerchew" target="_blank">🐦 X About me</a>
-</p>
-
 ---
 
 ## 🔐 Prerequisites :point_up:
@@ -98,15 +93,3 @@ browser.sidePanel.setPanelBehavior({openPanelOnActionClick: true}).catch((error:
 ```
 clicking on the browser extension icon won't trigger the listening event,and just open the side panel.
 ```typescript
-
-## 👨‍🚀About Me
-
-- Full-Stack Engineer
-
-- Once worked at Tencent and Alibaba
-
-If this project is helpful to you, star the repo and buy be a coffee, thank you guys.
-
-<a href="https://www.buymeacoffee.com/imtigerchew" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a>
-
-<img src="./public/zsm.jpg" alt="赞赏作者" style="height: 200px; width: 200px">
